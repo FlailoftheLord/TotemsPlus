@@ -2,3 +2,4 @@
 *.class
 .project
 .classpath
+.gitattributes
